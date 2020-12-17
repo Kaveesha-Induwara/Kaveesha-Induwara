@@ -72,7 +72,19 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
+# MOST USED LANGUAGES
 
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=InukaAsith)
+
+# Follow me on
+
+<p align="left">
+  <a href="https://t.me/InukaASiTH">
+    <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="40" height="40">
+  </a>
+  <a href="https://www.instagram.com/inukaasith6/">
+    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
+</p>
 ---
 
 <!-- Its main projects -->
