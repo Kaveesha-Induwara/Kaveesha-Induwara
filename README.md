@@ -95,5 +95,5 @@ HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
-<!-- This readme was created by Kaveesha Induwara - https://github.com/kaviya-admin -->
+
 ⭐️ From [Kavi_Ya](https://github.com/kaviya-admin)
