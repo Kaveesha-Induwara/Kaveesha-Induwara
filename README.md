@@ -63,9 +63,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/oniur.svg" />
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/kaveesha-admin/kaveesha-admin.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.oniur" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kaviya-admin" />
 </p>
 
 ## Support me
@@ -80,10 +80,10 @@ I created these images, feel free to use them.
   <a href="https://github.com/kaviya-admin/handle-path-oz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaviya-admin&repo=handle-path-oz" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
+  <a href="https://github.com/kaviya-admin/circleci-github-changelog-generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaviya-admin&repo=circleci-github-changelog-generator" />
   </a>
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/kaviya-admin -->
-⭐️ From [onimur](https://github.com/kaviya-admin)
+<!-- This readme was created by Kaveesha Induwara - https://github.com/kaviya-admin -->
+⭐️ From [Kavi_Ya](https://github.com/kaviya-admin)
