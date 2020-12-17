@@ -79,13 +79,10 @@ I created these images, feel free to use them.
 # Follow me on
 
 <p align="left">
-<a href="https://t.me/Kaveesha_Induwara">
-<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="40" height="40">
-</a>
-<a href="https://www.instagram.com/inukaasith6/">
-<img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
-<a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/Kaveesha_Induwara" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/__kaveesha_induwara__" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/vatana_ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/Kaveesha.Induwara.03.17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 ---
 
