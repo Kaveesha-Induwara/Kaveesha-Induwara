@@ -86,6 +86,14 @@ I created these images, feel free to use them.
 </p>
 ---
 
+
+Reach out to me 👓
+
+|  <a href="https://t.me/Kaveesha_Induwara/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[Kaveesha Induwara](https://t.me/Kaveesha_Induwara/)**                                                                                |
+|<a href="https://twitter.com/ImKaveesha"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/kaviya-admin"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Kaveesha.Induwara.03.17"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kaveesha-induwara-389279202//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
@@ -94,10 +102,3 @@ HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
-
-Reach out to me 👓
-
-|  <a href="https://t.me/Kaveesha_Induwara/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Kaveesha Induwara](https://t.me/Kaveesha_Induwara/)**                                                                                |
-|<a href="https://twitter.com/ImKaveesha"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/kaviya-admin"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Kaveesha.Induwara.03.17"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kaveesha-induwara-389279202//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
