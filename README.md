@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [All](https://github.com/kaviya-admin/);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
+- 🌱 I’m currently learning Python And Linux(CircleCI); 
 - 👯 I’m looking to collaborate on [TWE](https://t.me/Tech_Wizard_Ent) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
