@@ -88,14 +88,6 @@ I created these images, feel free to use them.
 ---
 
 <!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/kaviya-admin/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaviya-admin&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/kaviya-admin/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaviya-admin&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
 
 <!-- This readme was created by Kaveesha Induwara - https://github.com/kaviya-admin -->
 ⭐️ From [Kavi_Ya](https://github.com/kaviya-admin)
